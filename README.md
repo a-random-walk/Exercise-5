@@ -6,7 +6,7 @@ In this exercise you are asked to analyze air temperature data from Kumpula, Hel
 
 ## Completing the exercise
 
-- **Exercise 5 is due by the start of the next lesson (9:15 am, October 7th, 2024)**.
+- **Exercise 5 is due by the start of the next lesson**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **[Working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) is optional for this exercise**. **Please inform your course assistant if you and your partner wish to work independently on this exercise**. Otherwise, we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
